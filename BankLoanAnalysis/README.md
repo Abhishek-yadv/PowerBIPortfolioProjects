@@ -4,7 +4,7 @@
 The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into loan portfolios, borrower profiles, and loan performance.
 
 ## Project Overview: 📊
-This project involved the development of an interactive and visually appealing dashboard using data analysis and visualization tools Power BI and Excel. The analysis was conducted on a dataset containing various loan-related details, enabling the extraction of valuable insights across three main dashboards.
+This project involved the development of an interactive and visually appealing dashboard using data analysis and visualization tools Power BI, MSSQL and Excel. The analysis was conducted on a dataset containing various loan-related details, enabling the extraction of valuable insights across three main dashboards.
 
 ### Dashboard 1: Summary 📝
 ![1 Summary Dashboard](https://github.com/Abhishek-yadv/PowerBIPortfolioProjects/assets/68497250/3d42a757-a89c-4635-ae39-e0b402b44118)
