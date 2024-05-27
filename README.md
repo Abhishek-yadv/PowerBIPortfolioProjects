@@ -1,5 +1,3 @@
-Here's a suggested README file for the "PowerBIPortfolioProjects" repository:
-
 # Power BI Portfolio Projects
 
 Welcome to my Power BI Portfolio Projects repository! This repository showcases my work on various data analysis and visualization projects using the powerful Microsoft Power BI tool. Each project folder contains a comprehensive analysis, interactive dashboards, and valuable insights derived from real-world datasets.
