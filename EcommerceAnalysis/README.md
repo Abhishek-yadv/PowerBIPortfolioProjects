@@ -14,6 +14,9 @@ The eCommerce company wants to analyze their Year-to-Date (YTD) sales data and g
 6. Analyze YTD Sales by region to determine the best and worst-performing regions across the country.
 7. Assess YTD Sales by shipping type to identify the most effective shipping method.
 
+## Dashboard
+![abbajabbadabba](https://github.com/Abhishek-yadv/PowerBIPortfolioProjects/assets/68497250/63babdb3-7692-4f8c-b0f2-547be34c4915)
+
 ## Insights:
 1. The KPI banner provides a quick overview of the company's performance, showing a 1.93% decrease in YTD Sales, a 7.49% increase in YTD Profit, a 10.5% decrease in YTD Quantity, and an 11.35% increase in YTD Profit Margin.
 2. The YoY Sales growth trend icons indicate that the Office Supplies category is performing well with a 5.23% growth, while the Furniture and Technology categories are struggling with a 3.23% and 1.20% decline, respectively.
